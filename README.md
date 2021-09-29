@@ -9,9 +9,9 @@
 ## Atividades:
 * criação de conteúdo para mídias sociais
 * criação de material informativo
-  * material de apresentação do projeto
-  * material de prospecção
-  * material "prestação de contas"
+    * material de apresentação do projeto
+    * material de prospecção
+    * material "prestação de contas"
 * levantamento documental do projeto de extensão
 * prospecção de empresas parceiras
 * contato com empresas parceiras
@@ -24,7 +24,7 @@
 * Lael Albuquerque de Araújo Filho
 
 ## Atividades:
-* documentação dos p.o.p's
+* documentação dos `p.o.p's`
 
 # :man_factory_worker: Montagem e manutenção.
 
@@ -41,7 +41,7 @@
 * Mateus de Sena Andrade (monitor)
 * Thuany Vitória Evangelista da Silva
 * Yan Vinícius Lins de Queiroz (monitor)
- 
+
 ## Escala: 
 
 | Nome | Segunda | Terça | Quarta | Quinta | Sexta |
