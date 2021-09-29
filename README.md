@@ -9,10 +9,14 @@
 ## Atividades:
 * criação de conteúdo para mídias sociais
 * criação de material informativo
+  * material de apresentação do projeto
+  * material de prospecção
+  * material "prestação de contas"
+* levantamento documental do projeto de extensão
 * prospecção de empresas parceiras
 * contato com empresas parceiras
 * elaboração de acervo fotográfico dos procedimentos
-* levantamento documental do projeto de extensão
+* gerenciamento de redes sociais
 
 # :books: Preparação de material didático.
 
