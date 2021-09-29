@@ -7,6 +7,12 @@
 * Yan Vinícius Lins de Queiroz
 
 ## Atividades:
+* criação de conteúdo para mídias sociais
+* criação de material informativo
+* prospecção de empresas parceiras
+* contato com empresas parceiras
+* elaboração de acervo fotográfico dos procedimentos
+* levantamento documental do projeto de extensão
 
 # :books: Preparação de material didático.
 
@@ -14,6 +20,7 @@
 * Lael Albuquerque de Araújo Filho
 
 ## Atividades:
+* documentação dos p.o.p's
 
 # :man_factory_worker: Montagem e manutenção.
 
