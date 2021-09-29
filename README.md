@@ -23,26 +23,30 @@
 * Cintia felipe de albuquerque Vasconcelos.
 * Hugo Cézar de Almeida Lêdo 
 * José Hiago Dias de Paula
+* Jean Carlos Dias de Souza (monitor)
 * Johnnathan Elvis Espindula Freire 
-* Lucas Felipe do Nascimento Padilha
+* Lucas Felipe do Nascimento Padilha (monitor)
 * Renata Belmont Gonçalves Vieira 
-* Mateus de Sena Andrade
-* Thuany Vitória Evangelista da Silva 
+* Mateus de Sena Andrade (monitor)
+* Thuany Vitória Evangelista da Silva
+* Yan Vinícius Lins de Queiroz (monitor)
  
 ## Escala: 
 
 | Nome | Segunda | Terça | Quarta | Quinta | Sexta |
-| ---- | ------- | ----- | ------ | ------ | ----- |
-| Alan |  |  |  |  |  |
-| André |  |  |  |  |  |
-| Cintia |  |  |  |  |  |
-| Hugo |  |  |  |  |  |
-| J. Hiago |  |  |  |  |  |
-| Johnnathan |  |  |  |  |  |
-| Lucas |  |  |  |  |  |
-| Renata |  |  |  |  |  |
-| Mateus |  |  |  |  |  |
-| Thuany |  |  |  |  |  |
+| ---- | :-----: | :---: | :----: | :----: | :---: |
+| Alan |  |  |  |X|  |
+| André |  |  |X|  |  |
+| Cintia |  |  |  |X|  |
+| Hugo |X|  |  |  |  |
+| Jean |X| |  |  |  |
+| J. Hiago |X| |  |  |  |
+| Johnnathan | | |X|  |  |
+| Lucas |  |  |  |X|  |
+| Renata |  |  |X|  |  |
+| Mateus |X|  | |  |  |
+| Thuany |  |  |X|  |  |
+| Yan |  |  |X|  |  |
 
 
 ## Atividades:
