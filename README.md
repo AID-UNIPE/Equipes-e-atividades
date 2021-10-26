@@ -24,7 +24,7 @@
 * Lael Albuquerque de Araújo Filho
 
 ## Atividades:
-* documentação dos `p.o.p's`
+* documentação dos p.o.p's
 
 # :man_factory_worker: Montagem e manutenção.
 
